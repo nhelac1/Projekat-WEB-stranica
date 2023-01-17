@@ -4,4 +4,5 @@ Projekat rađen na predmetu Web tehnologije, Elektrotehnički fakultet, akademsk
 Link na čitav projekat: https://drive.google.com/drive/folders/1VV7qz4InYReAt6UtuuKFOopSC0ajKuHA
 
 Spirala 1: 9.5/10 bodova
+
 Spirala 2: 10/10 bodova
