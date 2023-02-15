@@ -6,3 +6,7 @@ Link na čitav projekat: https://drive.google.com/drive/folders/1VV7qz4InYReAt6U
 Spirala 1: 9.5/10 bodova
 
 Spirala 2: 10/10 bodova
+
+Spirala 3: 9/10 bodova
+
+Spirala 4: 10/10 bodova
